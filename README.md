@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there! :wave:
+I am a PhD Student in Data Science at Scuola Normale Superiore and University of Pisa and a member of (ContinualAI)[https://www.continualai.org/].  
+My research focuses on Continual Learning, with applications to Recurrent Neural Networks models and sequential data processing.  
